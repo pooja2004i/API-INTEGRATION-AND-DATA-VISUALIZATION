@@ -22,3 +22,5 @@ The goal of this task is to use Python to connect to a public API (e.g., OpenWea
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/af17265b-f567-404c-b72d-7a8a056ccc35)
+
