@@ -18,7 +18,10 @@ Task 1: API Integration and Data Visualization
 The first task involved creating a Python script that fetches data from a public API—OpenWeatherMap in my case—and visualizes the information using Matplotlib and Seaborn.
 API integration and data visualization is a crucial task that involves fetching real-time data from an external source and presenting it in an understandable format. This process is widely used in industries such as finance, healthcare, and weather forecasting, where dynamic data plays a vital role in decision-making
 Objective:
-The goal of this task is to use Python to connect to a public API (e.g., OpenWeatherMap), extract relevant data, process it, and visualize it using graphs or charts. This helps in understanding data patterns and trends efficiently
+The goal of this task is to use Python to connect to a public API (e.g., OpenWeatherMap), extract relevant data, process it, and visualize it using graphs or charts. This helps in understanding data patterns and trends efficiently.
+
+Tools and Libraries Used Programming Language: Python
+Overall, the internship was a valuable learning experience that enhanced my technical and problem-solving skills across different domains in Python.
 
 OUTPUT
 
